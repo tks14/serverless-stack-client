@@ -6,7 +6,7 @@ export default {
     },
     apiGateway: {
       REGION: "us-east-2",
-      URL: "YOUR_API_GATEWAY_URLhttps://ejvgnjhxfc.execute-api.us-east-2.amazonaws.com/prod"
+      URL: "https://ejvgnjhxfc.execute-api.us-east-2.amazonaws.com/prod"
     },
     cognito: {
       REGION: "us-east-2",
